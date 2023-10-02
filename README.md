@@ -1,5 +1,4 @@
 # Lab 42
-## Access Control
 Authors: Sham Al-Jalam
 
 #### a weather app using React Native:
