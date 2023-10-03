@@ -13,5 +13,5 @@ to check on my progress through the devlopment of the app i used expo go on my p
 
 ### demo
 ![WRRC](./assets/weaetherapp1.jpeg)
-![WRRC](./assets/weaetherapp2.jpeg)
 ![WRRC](./assets/weaetherapp3.jpeg)
+![WRRC](./assets/weaetherapp2.jpeg)
