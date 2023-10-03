@@ -12,6 +12,6 @@ to check on my progress through the devlopment of the app i used expo go on my p
 ##### Note: if the API call didn't work, try changing the API key to this one: `0fdb048a0bd6490baf9e83648d330124`
 
 ### demo
-![WRRC](./assets/weaetherapp1.jpeg)
-![WRRC](./assets/weaetherapp3.jpeg)
 ![WRRC](./assets/weaetherapp2.jpeg)
+![WRRC](./assets/weaetherapp3.jpeg)
+![WRRC](./assets/weaetherapp1.jpeg)
